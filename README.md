@@ -1,6 +1,6 @@
 # 🤖 WhatsApp AI Bot
 
-A powerful, feature-rich WhatsApp bot built with **Baileys** and multi-provider AI support. Supports group management, media downloading, earthquake/weather info, AI chat, image generation, and much more, Indonesian Version Available: https://github.com/andiasriefail2004/WhatsApp-bot-ai
+A powerful, feature-rich WhatsApp bot built with **Baileys** and multi-provider AI support. Supports group management, media downloading, earthquake/weather info, AI chat, image generation, and much more, Indonesian Version Available: https://github.com/andiasriefail/WhatsApp-bot-ai
 
 ---
 
